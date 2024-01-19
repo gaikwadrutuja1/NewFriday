@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792937409713",
+    "project_id": "newfriday-8d9b2",
+    "storage_bucket": "newfriday-8d9b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792937409713:android:76e07e1113bced2db90690",
+        "android_client_info": {
+          "package_name": "com.agribyte.newfriday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fRXghqOCa43QizVugmhigupCBjFdBU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
